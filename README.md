@@ -117,6 +117,6 @@ jupyter notebook
 
 ## 👋 About
 
-Saman Fatima — Kaggle Legacy Grandmaster (rank ~191 / 62,137), data scientist from Pakistan. Profile and full notebook list: [kaggle.com/samanfatima7](https://www.kaggle.com/samanfatima7).
+Saman Fatima — Kaggle Grandmaster (rank highest 24), data scientist from Pakistan. Profile and full notebook list: [kaggle.com/samanfatima7](https://www.kaggle.com/samanfatima7).
 
 ⭐ if any of these helped you — and feel free to fork.
